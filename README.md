@@ -10,8 +10,8 @@ Estimate the critical temperature of a magnetic phase transition using 2D Ising 
 Then, `PHSX815_Proj4_read.py` will read Tcs from the txt file,  perform gaussian fit, calculate the p-value for the test and plot it.
 
 ## Requirements:
--numpy
--scipy
--matplotlib
--rich (pip install rich)
--numba
+- numpy
+- scipy
+- matplotlib
+- rich (pip install rich)
+- numba
